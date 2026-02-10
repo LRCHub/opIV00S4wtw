@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "グライド",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-10T09:27:20.434337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グライド",
+      "artist": "Lily Chou-Chou",
+      "has_synced": true,
+      "path": "select/01_グライド_Lily_Chou-Chou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グライド",
+      "artist": "Lily Chou‐Chou",
+      "has_synced": true,
+      "path": "select/02_グライド_Lily_Chou‐Chou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グライド",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/03_グライド_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グライド - Glide",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/04_グライド_-_Glide_Myuk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グライド",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_グライド_Myuk.txt"
+    }
+  ]
+}
